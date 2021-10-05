@@ -1,0 +1,14 @@
+{
+  "name": "p11_intro_node",
+  "version": "1.0.0",
+  "description": "Descargar asistente desde [node](https://nodejs.org/es/)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
