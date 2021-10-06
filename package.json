@@ -4,6 +4,7 @@
   "description": "Descargar asistente desde [node](https://nodejs.org/es/)",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

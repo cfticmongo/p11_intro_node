@@ -42,4 +42,13 @@ npm install nodemon --save-dev
 npm install // Leer el package json e instalar los paquetes en la versión especificada
 ```
 
+## Uso de los scripts de package.json
+
+Se pueden definir scripts y ejecutarlos con
+
+```
+npm run <nombre-script> // Si es start no hace falta poner run
+```
+
+
 
